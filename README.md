@@ -71,44 +71,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🔹 AI-Powered Full-Stack E-Commerce Platform
-- 🧠 AI Chatbot (Gemini)
-- 🖼 Visual Search (CLIP)
-- 💳 Stripe Payments
-- 🔐 JWT & OAuth Authentication  
-🔗 **Repo:** https://github.com/Ishan-Devinda/Full-Stack-E-commerce-Platform
-
----
-
-### 🔹 AI Educational Tutoring Chatbot (RAG)
-- 📚 Document-based Q&A
-- 🧠 LangChain + LLMs
-- 📊 MLflow Monitoring  
-🔗 **Repo:** https://github.com/Ishan-Devinda/AI-Powered-Educational-Tutoring-Chatbot
-
----
-
-### 🔹 Virtual Travel Assistance Platform
-- 🗺 Tour guides & itinerary planning
-- 🚗 Transport & hotel booking
-- ☁️ Full-stack system  
-🎥 **Demo:** https://www.youtube.com/watch?v=jgoe0xSZIfU
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishan-Devinda&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Devinda&theme=tokyonight" />
-</p>
-
----
 
 ## 🔗 Connect With Me
 
